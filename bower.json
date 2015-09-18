@@ -1,0 +1,30 @@
+{
+  "name": "aileron-webfont",
+  "version": "1.0.0",
+  "authors": [
+    "Soham Banerjee <soham@renderbit.com>"
+  ],
+  "description": "Aileron web font, packaged for Bower",
+  "main": "style.css",
+  "keywords": [
+    "css",
+    "webfont",
+    "aileron",
+    "aileron",
+    "bold",
+    "aileron",
+    "italic",
+    "aileron",
+    "bold",
+    "italic"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/soham2008xyz/aileron-webfont",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
